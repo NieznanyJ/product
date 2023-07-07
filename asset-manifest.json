@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/product/static/css/main.96342c8b.css",
+    "main.js": "/product/static/js/main.cdbfa223.js",
+    "static/js/787.ceba7239.chunk.js": "/product/static/js/787.ceba7239.chunk.js",
+    "static/media/image-product-2.jpg": "/product/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/product/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/KumbhSans.woff2": "/product/static/media/KumbhSans.5f810f80c1101f10aac2.woff2",
+    "static/media/image-product-3.jpg": "/product/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/product/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "static/media/icon-delete.svg": "/product/static/media/icon-delete.1fd1f1f7d9f8ce5557b4.svg",
+    "index.html": "/product/index.html",
+    "static/media/icon-plus.svg": "/product/static/media/icon-plus.b297868c5f938612f4f0.svg",
+    "static/media/icon-minus.svg": "/product/static/media/icon-minus.f5073aa8273785ecf6b7.svg",
+    "main.96342c8b.css.map": "/product/static/css/main.96342c8b.css.map",
+    "main.cdbfa223.js.map": "/product/static/js/main.cdbfa223.js.map",
+    "787.ceba7239.chunk.js.map": "/product/static/js/787.ceba7239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96342c8b.css",
+    "static/js/main.cdbfa223.js"
+  ]
+}
